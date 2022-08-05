@@ -1,0 +1,60 @@
+:root {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header,
+main,
+footer {
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+header img {
+    height: 400px;
+    width: auto;
+}
+
+header h2 {
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+
+header p {
+    font-size: 18px;
+
+    padding-top: .3%;
+    margin-top: 0%;
+
+    max-width: 1200px;
+}
+
+main h2 {
+    margin-bottom: 0%;
+}
+
+main ul,
+main ol {
+    margin-top: .5%;
+    margin-bottom: 1.5%;
+
+    max-width: 1200px;
+}
+
+main ul li {
+    padding-bottom: 4px;
+}
+
+main ol li {
+    padding-bottom: 8px;
+}
+
+footer p {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-size: 18px;
+}
