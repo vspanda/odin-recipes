@@ -26,4 +26,7 @@ Create basic website with some recipes.
     - usage of ordered lists
 - Git
     - Using better commit messages with more atomic commits
-    
+
+# Basic Styling Goals
+
+- use CSS to control the font size, font family, and placement of items.
